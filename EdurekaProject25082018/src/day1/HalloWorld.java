@@ -6,5 +6,6 @@ public class HalloWorld {
 		System.out.println("Hello World");
 		System.out.println("HELLO WORLD AGAIN");
 		System.out.println("MY FIRST JAVA CODE");
+		System.out.println("New Day Started");
 	}
 }
