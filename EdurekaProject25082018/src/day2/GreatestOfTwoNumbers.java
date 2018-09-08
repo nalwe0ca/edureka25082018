@@ -25,10 +25,10 @@ public class GreatestOfTwoNumbers {
 
 		}
 
-	}
+	
 
 	int firstNum, secondNum;
-	{
+	
 
 		firstNum = 10;
 
@@ -39,9 +39,9 @@ public class GreatestOfTwoNumbers {
 		if (firstNum == secondNum) {
 		
 			System.out.println("Both are equal");
-		} else (secondNum > firstNum); {
+		}else if (secondNum > firstNum); 
 
 				System.out.println("Second is greatest");
 			}
-		}
+		
 }
